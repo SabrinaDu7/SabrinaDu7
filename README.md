@@ -1,7 +1,7 @@
 ## Hi, Sabrina here 👋
-I'm an undergrad at McGill University studying Neuroscience and Computer Science. Currently, you can find me doing research with [McGill iGEM](https://igem.org.mcgill.ca/), a synthetic biology group under Prof. Ignea and Prof. Münter.
+I'm an undergrad at McGill University studying Neuroscience and Computer Science. Currently, you can find me doing research at the [m2b3](https://m2b3.github.io/) lab under the supervision of Prof. Suresh Krishna
 
-My interests lie in NeuroAI, explainable AI, neuromorphic computing, and synthetic biology!
+My interests lie in NeuroAI, neuromorphic computing, and synthetic biology!
 
 <!--
 **SabrinaDu7/SabrinaDu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
