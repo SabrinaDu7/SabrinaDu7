@@ -1,5 +1,5 @@
 ## Hi, Sabrina here 👋
-I'm an undergrad at McGill University studying Neuroscience and Computer Science. Currently, you can find me doing research at the [m2b3](https://m2b3.github.io/) lab under the supervision of Prof. Suresh Krishna
+I'm an undergrad at McGill University studying Neuroscience and Computer Science. Currently, you can find me doing research at the [m2b3 lab](https://m2b3.github.io/) under the supervision of Prof. Suresh Krishna in the Department of Physiology.
 
 My interests lie in NeuroAI, neuromorphic computing, and synthetic biology!
 
