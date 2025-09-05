@@ -1,5 +1,5 @@
 ## Hi, Sabrina here 👋
-I'm an undergrad at McGill University studying Neuroscience and Computer Science. Currently, you can find me doing research at the [m2b3 lab](https://m2b3.github.io/) under the supervision of Prof. Suresh Krishna in the Department of Physiology. My interests lie in NeuroAI, neuromorphic computing, and synthetic biology! 
+I'm an undergrad at McGill University studying Neuroscience, Mathematics and Computer Science. Currently, you can find me doing research at the [Peyrache lab](https://www.peyrachelab.com/) where I build curiosity-driven RL agents to model rat exploratory behaviour and hippocampal activity. My interests lie in NeuroAI and the philosophy of science! 
 
 You can find me here: [LinkedIn](https://www.linkedin.com/in/dusabrina/)!
 
