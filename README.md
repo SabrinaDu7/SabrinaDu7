@@ -1,7 +1,7 @@
 ## Hi, Sabrina here 👋
 I'm an undergrad at McGill University studying Neuroscience, Mathematics and Computer Science. Currently, you can find me doing research at the [Peyrache lab](https://www.peyrachelab.com/) where I build curiosity-driven RL agents to model rat exploratory behaviour and hippocampal activity. My interests lie in NeuroAI and the philosophy of science! 
 
-You can find me here: [LinkedIn](https://www.linkedin.com/in/dusabrina/)!
+You can find me here: [LinkedIn](https://www.linkedin.com/in/dusabrina/)
 
 <!--
 **SabrinaDu7/SabrinaDu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
