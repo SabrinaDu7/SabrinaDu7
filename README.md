@@ -1,5 +1,7 @@
 ## Hi, Sabrina here 👋
-I'm an undergrad at McGill University studying Neuroscience, Mathematics and Computer Science. Currently, you can find me doing research at the [Peyrache lab](https://www.peyrachelab.com/) where I build curiosity-driven RL agents to model rat exploratory behaviour and hippocampal activity. My interests lie in NeuroAI and the philosophy of science! 
+I'm an undergrad at McGill University studying Neuroscience, Mathematics and Computer Science. Currently, you can find me doing research at the [Peyrache](https://www.peyrachelab.com/) and [LiNC](https://linclab.mila.quebec/) labs where I build curiosity-driven RL agents to model rat exploratory behaviour and hippocampal activity. 
+
+Also working at [Arc Institute](https://arcinstitute.org/) on using mass spectrometry foundation models to characterize host-microbiome interactions from spatial single-cell proteomics.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/dusabrina/), [Bluesky](https://bsky.app/profile/sabrinadu.bsky.social) and [X](https://x.com/sabrinadu347).
 
